@@ -1540,7 +1540,10 @@ nav.navbar.bootsnav.sticked .attr-nav.social li {
     transform: rotate(360deg);
   }
 }
-
+.logo{
+  width: 240px;
+  height: 80px !important;
+}
 
 /* ============================================================== 
      # Banner 
